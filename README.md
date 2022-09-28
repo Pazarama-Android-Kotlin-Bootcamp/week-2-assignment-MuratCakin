@@ -8,4 +8,4 @@ Lifecyle Nedir? Nasıl yönetiriz? Ne gibi problemler olur ve nasıl kaçarız?
 
 Derste birlikte yapılan Log in ve Sign Up sayfaların tasarımlarının yapılması. Bu iki tasarımı İki Activity olarak yapılacak ve Sign up butuna basıldığında Sign Up ekranı gelmesi beklenmekte.
 
-[Cevap için tıklayın](https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-2-assignment-MuratCakin/blob/main/LogInApp/LogIn.md)
+[LogInApp.md](https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-2-assignment-MuratCakin/blob/main/LogInApp/LogIn.md)
