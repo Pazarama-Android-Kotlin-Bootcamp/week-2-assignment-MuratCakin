@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LogInApp</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="bauuss">Bauuss</string>
+    <string name="log_in">Log in</string>
+    <string name="login_image">login_image</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="button_log_in">Log In</string>
+    <string name="button_sign_up">Sıgn Up</string>
+    <string name="button_register">Regıster</string>
+    <string name="forgot_password">Forgot password?</string>
+</resources>
